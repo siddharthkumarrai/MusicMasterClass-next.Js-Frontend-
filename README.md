@@ -46,11 +46,13 @@ The site lets visitors explore courses across guitar, vocals, and music producti
 
 **Live site:** 👉 [musicmasterclass.vercel.app](https://musicmasterclass.vercel.app/)
 
-**Screen recording:** click the preview below to watch the walkthrough.
-
 <div align="center">
 
-[![MusicMasterClass demo video](https://res.cloudinary.com/dombv2xju/video/upload/so_3/v1790262915/Screen_Recording_2026-09-24_203728_ve1vuo.jpg)](https://res.cloudinary.com/dombv2xju/video/upload/v1790262915/Screen_Recording_2026-09-24_203728_ve1vuo.mp4)
+<a href="https://musicmasterclass.vercel.app/">
+  <img src="https://res.cloudinary.com/dombv2xju/video/upload/w_800,fps_10/v1790262915/Screen_Recording_2026-09-24_203728_ve1vuo.gif" alt="MusicMasterClass demo: screen recording of the website" width="800">
+</a>
+
+<sub>Auto-playing preview. <a href="https://res.cloudinary.com/dombv2xju/video/upload/v1790262915/Screen_Recording_2026-09-24_203728_ve1vuo.mp4">Watch the full-quality video</a>.</sub>
 
 </div>
 
