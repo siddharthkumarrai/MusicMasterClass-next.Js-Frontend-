@@ -49,7 +49,7 @@ The site lets visitors explore courses across guitar, vocals, and music producti
 <div align="center">
 
 <a href="https://musicmasterclass.vercel.app/">
-  <img src="https://res.cloudinary.com/dombv2xju/video/upload/w_800,fps_10/v1790262915/Screen_Recording_2026-09-24_203728_ve1vuo.gif" alt="MusicMasterClass demo: screen recording of the website" width="800">
+  <img src="./assets/demo.gif" alt="MusicMasterClass demo" width="800">
 </a>
 
 <sub>Auto-playing preview. <a href="https://res.cloudinary.com/dombv2xju/video/upload/v1790262915/Screen_Recording_2026-09-24_203728_ve1vuo.mp4">Watch the full-quality video</a>.</sub>
